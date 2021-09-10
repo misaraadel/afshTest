@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{249:function(e,t,n){"use strict";n.r(t);n(9);t.default=function(e){return new Promise((function(e){e({app:{title:"شركة عفش للنقل والتخزين",description:"شركة عفش للنقل والتخزين",dir:"ltr"},nav:{home:"Home",about:"About US",features:"Featuers"}})}))}}}]);
